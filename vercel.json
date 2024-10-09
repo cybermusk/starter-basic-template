@@ -4,8 +4,8 @@
   "headers": [],
   "redirects": [
     {
-      "source": "/undefined",
-      "destination": "/404",
+      "source": "/signup",
+      "destination": "https://www.sugardaddymeet.com/registerStep1?tid=af100028782-m",
       "permanent": true
     }
   ]
