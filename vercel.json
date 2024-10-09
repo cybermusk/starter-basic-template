@@ -4,7 +4,7 @@
   "headers": [],
   "rewrites": [
     {
-      "source": "/undefined",
+      "source": "/signup",
       "destination": "https://www.sugardaddymeet.com/registerStep1?tid=af100028782-m"
     }
   ]
