@@ -2,11 +2,10 @@
   "cleanUrls": true,
   "trailingSlash": false,
   "headers": [],
-  "redirects": [
+  "rewrites": [
     {
-      "source": "/signup",
-      "destination": "https://www.sugardaddymeet.com/registerStep1?tid=af100028782-m",
-      "permanent": true
+      "source": "/undefined",
+      "destination": "https://www.sugardaddymeet.com/registerStep1?tid=af100028782-m"
     }
   ]
 }
